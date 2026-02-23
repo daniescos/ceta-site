@@ -44,7 +44,7 @@ O portfólio deve ser alimentado por um único arquivo de dados, para que uma pe
   - Garantir que, ao adicionar um novo item no arquivo, o layout continue intacto sem qualquer alteração de código.
 - Crie exemplos de 3–5 projetos fictícios como seed para demonstrar o formato.
 
-## Página "Quem Somos"
+## Página “Quem Somos”
 
 - Criar a página com estrutura completa (seções, títulos, layout), mas com textos claramente marcados como placeholders, ex.:
   - “TEXTO A DEFINIR – HISTÓRIA DA EMPRESA”.
@@ -53,7 +53,7 @@ O portfólio deve ser alimentado por um único arquivo de dados, para que uma pe
   - ou num arquivo de conteúdo (ex.: `src/data/about.json` ou `about.md`);
   - ou bem documentado no HTML/JS para fácil troca posterior.
 
-## Página "Entre em Contato" (formulário + e-mail)
+## Página “Entre em Contato” (formulário + e-mail)
 
 - Criar página com formulário contendo campos típicos:
   - Nome, E-mail, Telefone (opcional), Assunto, Mensagem.
