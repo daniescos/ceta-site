@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfólio - CETA Montagens e Projetos">
+  <title>Portfólio | CETA – Montagens e Projetos</title>
+  <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+<body>
+  <!-- Header / Navigation -->
+  <header>
+    <div class="container">
+      <div class="header-inner">
+        <a href="./index.html" class="logo">
+          <img src="./assets/images/ceta-logo.png" alt="CETA Logo">
+        </a>
+        <nav>
+          <ul>
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about.html">Quem Somos</a></li>
+            <li><a href="./portfolio.html">Portfólio</a></li>
+            <li><a href="./contact.html">Contato</a></li>
+          </ul>
+        </nav>
+        <a href="./contact.html" class="btn btn-primary">Contato</a>
+        <button class="hamburger" aria-label="Menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Hero Section -->
+    <section class="hero section-dark" style="min-height: 50vh;">
+      <div class="hero-content">
+        <h1>Nosso Portfólio</h1>
+        <p class="subtitle">Conheça alguns dos principais projetos de engenharia realizados pela CETA.</p>
+      </div>
+    </section>
+
+    <!-- Portfolio Grid -->
+    <section class="section section-dark">
+      <div class="container">
+        <!-- Filter Buttons -->
+        <div class="filter-buttons">
+          <button class="filter-btn" data-category="all">Todos</button>
+          <button class="filter-btn" data-category="Estrutural">Estrutural</button>
+          <button class="filter-btn" data-category="Civil">Civil</button>
+          <button class="filter-btn" data-category="Elétrico">Elétrico</button>
+          <button class="filter-btn" data-category="Industrial">Industrial</button>
+        </div>
+
+        <!-- Projects Grid -->
+        <div class="portfolio-grid grid-3" id="portfolio-grid">
+          <!-- Loaded by portfolio.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="section" style="background: linear-gradient(135deg, var(--c2) 0%, #ff9f00 100%);">
+      <div class="container" style="text-align: center;">
+        <h2 style="color: var(--c0); margin-bottom: var(--gap-sm);">Seu Projeto é o Próximo?</h2>
+        <p style="color: var(--c0); font-size: var(--f-b); margin-bottom: var(--gap);">Vamos transformar sua ideia em um projeto realizado com excelência.</p>
+        <a href="./contact.html" class="btn" style="background-color: var(--c0); color: var(--c2); font-weight: 700;">Solicitar Orçamento</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-section">
+        <h4>Empresa</h4>
+        <ul>
+          <li><a href="./about.html">Quem Somos</a></li>
+          <li><a href="./portfolio.html">Portfólio</a></li>
+          <li><a href="./contact.html">Contato</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Contato</h4>
+        <ul>
+          <li><a href="mailto:contato@ceta.com.br">contato@ceta.com.br</a></li>
+          <li><a href="tel:+551140000000">(11) 4000-0000</a></li>
+          <li><span style="color: var(--c3);">São Paulo, SP</span></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Redes Sociais</h4>
+        <ul>
+          <li><a href="#">LinkedIn</a></li>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2024 CETA Montagens e Projetos. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="./src/js/main.js"></script>
+  <script src="./src/js/portfolio.js"></script>
+</body>
+</html>
