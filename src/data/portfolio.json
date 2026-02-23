@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Estrutura Metálica Industrial",
+    "description": "Projeto e montagem de estrutura metálica para galpão industrial de 5.000m² com acabamento estrutural de alta qualidade.",
+    "category": "Industrial",
+    "location": "Betim, MG",
+    "year": 2023,
+    "highlight": true,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "title": "Cobertura Galpão Logístico",
+    "description": "Cobertura com telha metálica termoacústica e estrutura de concreto pré-moldado. Projeto completo de drenagem e impermeabilização.",
+    "category": "Estrutural",
+    "location": "Contagem, MG",
+    "year": 2023,
+    "highlight": true,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "title": "Instalações Elétricas AT/BT",
+    "description": "Projeto e execução de subestação com transformadores de 750 kVA. Painéis de média tensão e baixa tensão em conformidade com normas técnicas.",
+    "category": "Elétrico",
+    "location": "Belo Horizonte, MG",
+    "year": 2022,
+    "highlight": false,
+    "image": ""
+  },
+  {
+    "id": 4,
+    "title": "Fundações e Pavimentação",
+    "description": "Fundações profundas em estacas pré-moldadas e pavimentação em concreto usinado. Obra com 8.000m² de área construída.",
+    "category": "Civil",
+    "location": "Ribeirão das Neves, MG",
+    "year": 2022,
+    "highlight": true,
+    "image": ""
+  },
+  {
+    "id": 5,
+    "title": "Montagem de Equipamentos Pesados",
+    "description": "Montagem de máquinas de grande porte em indústria de beneficiamento. Alinhamento de precisão e ancoragem estrutural.",
+    "category": "Industrial",
+    "location": "Ibirité, MG",
+    "year": 2021,
+    "highlight": false,
+    "image": ""
+  }
+]

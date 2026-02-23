@@ -1,0 +1,37 @@
+{
+  "story": "TEXTO A DEFINIR – HISTÓRIA DA EMPRESA",
+  "mission": "TEXTO A DEFINIR – MISSÃO",
+  "vision": "TEXTO A DEFINIR – VISÃO",
+  "values": [
+    {
+      "title": "Qualidade",
+      "description": "TEXTO A DEFINIR"
+    },
+    {
+      "title": "Inovação",
+      "description": "TEXTO A DEFINIR"
+    },
+    {
+      "title": "Responsabilidade",
+      "description": "TEXTO A DEFINIR"
+    },
+    {
+      "title": "Segurança",
+      "description": "TEXTO A DEFINIR"
+    }
+  ],
+  "team": [
+    {
+      "name": "Nome Placeholder",
+      "role": "TEXTO A DEFINIR"
+    },
+    {
+      "name": "Nome Placeholder",
+      "role": "TEXTO A DEFINIR"
+    },
+    {
+      "name": "Nome Placeholder",
+      "role": "TEXTO A DEFINIR"
+    }
+  ]
+}
