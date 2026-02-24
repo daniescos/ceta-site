@@ -222,7 +222,7 @@ header.scrolled {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 0;
+  padding: 8px 0;
   max-width: var(--container);
   margin: 0 auto;
 }
@@ -230,7 +230,7 @@ header.scrolled {
 .logo {
   display: flex;
   align-items: center;
-  height: 50px;
+  height: 90px;
   text-decoration: none;
 }
 
