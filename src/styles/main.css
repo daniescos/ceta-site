@@ -339,6 +339,14 @@ nav a.active {
   flex-wrap: wrap;
 }
 
+.hero-logo-test {
+  display: block;
+  margin: 0 auto var(--gap);
+  max-width: 320px;
+  width: 60%;
+  opacity: 0.5;
+}
+
 /* ============================================================================
    Card Component
    ============================================================================ */
